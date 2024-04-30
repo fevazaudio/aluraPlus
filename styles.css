@@ -147,3 +147,12 @@ body {
     color: var(--cor-cinza);
     font-size: 14px;
 }
+
+.lista__link:hover {
+    color: rgb(105, 71, 139);
+}
+
+.container__botao:hover {
+    color: #cee6bf;
+    background-color: #7795aa;
+}
